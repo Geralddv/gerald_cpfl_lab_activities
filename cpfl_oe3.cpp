@@ -1,4 +1,4 @@
-//Name: Gerald De Villa
+//Name: Gerald E. De Villa
 //Activity no. OE3
 //Description:Salary program that computes the gross pay,tax rate and net pay.
 //Date:September 24, 2021
