@@ -45,7 +45,7 @@ int main(){
     cout<<"\n--------------------------------------" <<endl;
 
     cout<< "Employee Name    :" << ename <<endl;
-    cout<< "Employee Number  :" << empid <<endl;
+    cout<< "Employee ID      :" << empid <<endl;
     cout<< "Gross pay        :" << grosspay <<endl;
 
     cout<< "\nTax rate         :" << taxrate <<endl;
