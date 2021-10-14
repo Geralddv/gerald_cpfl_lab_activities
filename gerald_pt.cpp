@@ -9,8 +9,7 @@ using namespace std;
 
 int main(){
 
-    int r_num = 0;
-    int cntn = 0;
+    int r_num, count;
     int a_num[30];
     int index;
     
@@ -19,7 +18,7 @@ int main(){
     cin>>r_num;
     cout<<"Enter " << r_num << " consecutive number :";
     
-    while (cntn < r_num){    
+    while (count < r_num){    
         cin>>a_num[index];
 
         if(a_num[index] % 2 ==0){
@@ -28,7 +27,7 @@ int main(){
         else
          cout <<a_num[index] <<"- Odd number"<<endl;   
          index++;
-         cntn++;
+         count++;
         }
     return 0;
     }
