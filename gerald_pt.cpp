@@ -9,9 +9,8 @@ using namespace std;
 
 int main(){
 
-    int r_num, count;
+    int r_num, count, index;
     int a_num[30];
-    int index;
     
 
     cout<<"Enter range of number      :";
