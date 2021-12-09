@@ -1,16 +1,8 @@
-Customer Name :Gerald
-Product 1 :AppleQuantity :50Product Price :1250
-Product 2 :BananaQuantity :50Product Price :500
-Product 3 :EggQuantity :50Product Price :500
-Total price of product :2250
-Total tax :270
-Total amount:2520
+Name Gerald
+Average grade 95
+Congratulations! You passed!
 
-Customer Name :Gerald
-Product 1 :PineappleQuantity :5Product Price :250
-Product 2 :StrawberryQuantity :50Product Price :750
-Product 3 :WatermelonQuantity :3Product Price :450
-Total price of product :1450
-Total tax :174
-Total amount:1624
+Name Juan
+Average grade 73
+You failed
 
